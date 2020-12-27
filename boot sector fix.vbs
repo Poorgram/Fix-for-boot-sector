@@ -1,3 +1,0 @@
-Do
-MsgBox ("lubietory")
-Loop
